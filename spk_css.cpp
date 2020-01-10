@@ -16,7 +16,7 @@ void time_init(void)
 
 }
 
-void fn2(msg)
+void fn2(char *msg)
 {
 
 }
